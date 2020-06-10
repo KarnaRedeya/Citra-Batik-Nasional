@@ -1,0 +1,1140 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable/btjilbabkawung.png
+SHA1-Digest: 3BdKe2yAevs6lk0fbGpCAWD41IQ=
+
+Name: res/drawable/btrokceplok.png
+SHA1-Digest: J3pE9T2gY5Fbar6II7aCUpWDwAM=
+
+Name: res/drawable/drceplok.png
+SHA1-Digest: n+Xgom3a/apW3Cltv0LfyhZHEDE=
+
+Name: res/layout/laywarna6.xml
+SHA1-Digest: SOsYgusKCZkcEo3bFLNnsVFYT60=
+
+Name: res/drawable/next.png
+SHA1-Digest: Z4b/roRo+TQK6nIGWNvdrj+jZzc=
+
+Name: res/drawable/topisekar.png
+SHA1-Digest: gp5YVwJcTL8o+gK69H8f5lYEOBo=
+
+Name: res/drawable/jaketkalimantan.png
+SHA1-Digest: SBuhxw0Hun6ITbXYD2H2jIE9XsE=
+
+Name: res/drawable/btswcjambi.png
+SHA1-Digest: XwpvuUvZ0buRce2/1pZE7+X4q+w=
+
+Name: res/drawable/btswcpring.png
+SHA1-Digest: RP4pCs0J80bsenMxS9QnFrhVtes=
+
+Name: res/drawable/btjaketmega.png
+SHA1-Digest: lM6O1BKKA6p0cZOkzlpvKeiB4/k=
+
+Name: res/drawable/btdrmegamendung.png
+SHA1-Digest: 3GP7xU9FTGNh96NrXLeibN5FbSg=
+
+Name: res/drawable/btjaketkalimantan.png
+SHA1-Digest: DrRMESj71alSr0kskALn8s44bg4=
+
+Name: res/drawable/btksemen.png
+SHA1-Digest: OZn5ml3BtKI4egds1lG2XFUyv4g=
+
+Name: res/layout/laywarna.xml
+SHA1-Digest: YIUIfoxKzdyL/Mr0Y/HVWMtJpg0=
+
+Name: res/drawable/btkaospolos.png
+SHA1-Digest: rJvlCaZpZGBMNzPO6Myc7F5jVpo=
+
+Name: res/drawable/btknitik.png
+SHA1-Digest: h8A+01VQlOvXsyG9J34l/ZlROY4=
+
+Name: res/drawable/cmocca.png
+SHA1-Digest: Mvb9URXh2izQ98C+g0xfW3dG1f4=
+
+Name: res/drawable/bttopitambal.png
+SHA1-Digest: bipaLxHoY/NxdqhodiAN5A5BzPY=
+
+Name: res/drawable/makna5.png
+SHA1-Digest: FrjBFxhvphJ5Mtk1B8M1kvcpX/Q=
+
+Name: res/drawable/swcbtw.png
+SHA1-Digest: DyTgNBsBGYiR1+gq4dAJbsVhPmc=
+
+Name: res/drawable/swdayak.png
+SHA1-Digest: y4RCB/Bq1UhGKN818YaZcLckTdc=
+
+Name: res/drawable/btcelanapjgnitik.png
+SHA1-Digest: GAFvXyL91n1hq7SgK9wRY11+kbw=
+
+Name: res/drawable/btcelanasekar.png
+SHA1-Digest: rNtANPPy9CdGLVWWzLdZwlka81o=
+
+Name: res/drawable/chijau.png
+SHA1-Digest: F1ibazWw+ObQTnsDf5D0VI6Fjfw=
+
+Name: res/drawable/btm5.png
+SHA1-Digest: 1MIk7Bea3tmvvcREUIE/AMmCkwc=
+
+Name: res/drawable/gaunkalimantan.png
+SHA1-Digest: SxlAwfa9Qt0opAUwB5kQlKizb3I=
+
+Name: res/layout/laywarna11.xml
+SHA1-Digest: e15lQ8qtvtnYCWJtUm8Sr8DD5tk=
+
+Name: res/drawable/teknik2.png
+SHA1-Digest: fH4gxrc16o/77ZLQCSUCR1d0cIs=
+
+Name: res/drawable/kulotceplok.png
+SHA1-Digest: /43Fw6WS7X5rN6V8FG3AhOiQ9pU=
+
+Name: res/drawable/btjaketparang.png
+SHA1-Digest: pHEDbKlUV1qu30wq1UkTOGT5RLM=
+
+Name: res/drawable/jaketnitik.png
+SHA1-Digest: iw6wYm/b1B3TLoAX1sPGG/ntJh8=
+
+Name: res/drawable/drkalimantan.png
+SHA1-Digest: xTbo2dX475CQq5qSsflUtdukPA0=
+
+Name: res/drawable/kpalembang.png
+SHA1-Digest: jPGGuvXgOngyh4nPgrstExdOm1U=
+
+Name: res/drawable/btkulotjambi.png
+SHA1-Digest: vY8RfUL9YLq1tP/gY12i3zgmOaw=
+
+Name: res/drawable/btroksasaringan.png
+SHA1-Digest: KpWFY6E3SMFpNldbP9xNXtyKBdk=
+
+Name: res/drawable/btroksekar.png
+SHA1-Digest: 7+IJGTPt6DC6S4OipCNhkRlcgLU=
+
+Name: res/drawable/bttopikawung.png
+SHA1-Digest: cDxIrVY6zKIyTjQEDhtr/VSHAQA=
+
+Name: res/drawable/jaketpalembang.png
+SHA1-Digest: s2MwJkP7k9QsM9wDsnSCi33s5gk=
+
+Name: res/drawable/bttopisekarjagad.png
+SHA1-Digest: GeTiKZ/vuUTzM6w6iXcTx8isBaY=
+
+Name: res/drawable/m5.png
+SHA1-Digest: f5LowKP0NgNYicPblXpffZtw5PM=
+
+Name: res/drawable/btjakettambal.png
+SHA1-Digest: EjAs8eJOjQ+7v9SwpFnXl0vL2VQ=
+
+Name: res/drawable/btgaunkalimantan.png
+SHA1-Digest: 2FUSsFJM/nIW65XHVpCwW5CodaI=
+
+Name: res/drawable/tastambal.png
+SHA1-Digest: YnrM5ETfO3vYLWOO18tF2gw+NhU=
+
+Name: res/drawable/topimega.png
+SHA1-Digest: Kx4IpTCuXsUVw0g5jRhlXWpFgt4=
+
+Name: resources.arsc
+SHA1-Digest: KiBOliROvK2oVu25nb/whm1InSc=
+
+Name: res/drawable/gaunmega.png
+SHA1-Digest: rwlnwXF5PcO0gass9S3EvtEpkgk=
+
+Name: res/drawable/bttasmega.png
+SHA1-Digest: T4X4St7BRlADr6bWcztizpbr9Ho=
+
+Name: res/drawable/btjilbab.png
+SHA1-Digest: fmFhGsiAXemwwpGqNxhSDfSE1e8=
+
+Name: res/drawable/btswsidoluhur.png
+SHA1-Digest: aRY9sUMXu2xBpdOcTpixMuGtJWE=
+
+Name: res/drawable/gaunpring.png
+SHA1-Digest: 9J87wMfYmRcDe+cTZ5eFfQ9lkbQ=
+
+Name: res/drawable/swrusak.png
+SHA1-Digest: 7237MRcwwQU8LW/ubzqxxlEL1wU=
+
+Name: res/drawable/btcbirulangit.png
+SHA1-Digest: Me+PVa/BoWo+/kKgJvf5sa/Mu3g=
+
+Name: res/drawable/btcelanasekar2.png
+SHA1-Digest: dMmphps0SOh+BXaIBvMKAJXPYfk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: N0GEZuYBjmNvOR27Wn5z8icvpP4=
+
+Name: res/drawable/btjilbabkalimantan.png
+SHA1-Digest: o7QEWB6/5OkqpeRDLtqrmrVUq8E=
+
+Name: res/drawable/btkaossekar.png
+SHA1-Digest: enPKODgogo+R0Ujas20KGOF9/qw=
+
+Name: res/drawable/bttaspekalongan.png
+SHA1-Digest: 8gALhZ75ctsxYETh2CTXlvawAUw=
+
+Name: res/drawable/cmaroon.png
+SHA1-Digest: TdCqYijNN57RQLN5sZZH4KtFV54=
+
+Name: res/drawable/kulotsasaringan.png
+SHA1-Digest: au7wL+DA6yxN2Y9S9h54/c6lNyA=
+
+Name: res/drawable/home.png
+SHA1-Digest: stxXB8NUKB/db+AU1rsmAfAqPDM=
+
+Name: res/drawable/btm2.png
+SHA1-Digest: VbjJNKsMSlvMtvVO5Y1qys2jhA0=
+
+Name: res/drawable/drsekar.png
+SHA1-Digest: lg2rO+RxEag/Z7c0Lm2opkRbKow=
+
+Name: res/drawable/btkulot.png
+SHA1-Digest: 6EBhSylUM8cpHtgHrl/+D4iQ0mw=
+
+Name: res/drawable/kulotpolos.png
+SHA1-Digest: LXyiiLvUOE0BLQnJcT3hVnUiIcc=
+
+Name: res/drawable/topiceplok.png
+SHA1-Digest: PHPoMcdCackur04BGmsOW0o3waw=
+
+Name: res/drawable/about.png
+SHA1-Digest: HXvxPCmlIlWSv6U8XcSmLPt19fY=
+
+Name: res/drawable/btswcbetawi.png
+SHA1-Digest: Wr1wEPeFjg4nyk+Hvhal0WQ5cLM=
+
+Name: res/drawable/btckuning.png
+SHA1-Digest: OJJuz4OqYaQDlh7EnbZph0YITxw=
+
+Name: res/drawable/makna9.png
+SHA1-Digest: E07TVkXawHJnirRyN2XQ2YSPozk=
+
+Name: res/drawable/makna11.png
+SHA1-Digest: JbGlZjN3nEDNL3e9NDLmRIVbx2c=
+
+Name: res/drawable/btm9.png
+SHA1-Digest: YAm1aPZXnec9p8oAaAn2KEBy3Bg=
+
+Name: res/drawable/btkaosmega.png
+SHA1-Digest: aqzONXeEgW3n8ku0N7A5ClPqXVA=
+
+Name: res/drawable/btdrlasem.png
+SHA1-Digest: BZ0uNSL1/2ft33NX3Ert7HJ9djo=
+
+Name: res/drawable/btjilbabmega.png
+SHA1-Digest: 7Cu828vaIAipvYt2yM+hjUbp2nQ=
+
+Name: res/drawable/drjambi.png
+SHA1-Digest: HwmuAXGsXWd71v2AQd8FIhlq5yg=
+
+Name: res/drawable/btkpalembang.png
+SHA1-Digest: Rq/mIFOUDrEgTaeji9S1W8gyMUM=
+
+Name: res/layout/laymakna7.xml
+SHA1-Digest: h8IBEJxX2Xj3E1zJvYol6nH9ncY=
+
+Name: res/drawable/kparangrusak.png
+SHA1-Digest: /YDJM2DFns6LbKm5bc6bW2jyVyQ=
+
+Name: res/drawable/btdrkalimantan.png
+SHA1-Digest: yck+5IYCPV65YgfBGHjQJJTZo0U=
+
+Name: res/drawable/polos.png
+SHA1-Digest: lWdjIYpXV2/og1hTmlGtE9HCFEU=
+
+Name: res/layout/laymakna3.xml
+SHA1-Digest: EfxdykRe3KfffxtK8duSihImTLk=
+
+Name: res/drawable/btkulotsekar.png
+SHA1-Digest: C/VWjeQxx1b/kbcB3UHwjg8xwno=
+
+Name: res/drawable/btcelanapjgsasaringan.png
+SHA1-Digest: /C5BwGkEvRzzDB2FNLoAvirzGTQ=
+
+Name: res/drawable/btswrusak.png
+SHA1-Digest: qbZ2I0XWjd2TN3D6gg9XZUik6PY=
+
+Name: res/drawable/btkaosmegamendung.png
+SHA1-Digest: 3Lsv5T8gPt7e9sbE0k+yHNf+Dd0=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: OImPZJuWAAPJDewtJmUKiVyoswI=
+
+Name: res/drawable/m8.png
+SHA1-Digest: sbQa7UgGpaqbnBJvxDmgfHDcef8=
+
+Name: res/drawable/ksidoasih.png
+SHA1-Digest: WrRzn35oC2uhCOLrRNXjp5pM4vY=
+
+Name: res/drawable/btrokpring.png
+SHA1-Digest: 3mbrQUihgNCG5t16Qku7WOtxtgs=
+
+Name: res/drawable/btsweater.png
+SHA1-Digest: JCHIbrUUCvBGVZDHmnh3PvXsghc=
+
+Name: res/layout/layket.xml
+SHA1-Digest: blLnaJt832UqHxot20cLhBDP1Co=
+
+Name: res/drawable/celanapjgbetawi.png
+SHA1-Digest: shouasUWDgGGDR9GM2xC9Aw/Fmc=
+
+Name: res/drawable/makna2.png
+SHA1-Digest: mBT4KpGws4X+X1lPpu/ibQFPfvw=
+
+Name: res/drawable/btm13.png
+SHA1-Digest: O8P5TdeogMwGEbgV/hLseUkrhdE=
+
+Name: res/drawable/m13.png
+SHA1-Digest: vXM0voeqmZI6WXpeDu47A/u3bGc=
+
+Name: res/drawable/jilbabmega.png
+SHA1-Digest: JiX//LVIN0dyl+z5v2KntG+I7wk=
+
+Name: res/drawable/celanapjgnitik.png
+SHA1-Digest: 9c0RvhzurkWnqYzdxWYzQC6R+3Q=
+
+Name: res/drawable/btkulotsasaringan.png
+SHA1-Digest: ncI6iZooZBtZijVdYAhq70vikhc=
+
+Name: res/drawable/btkasmat.png
+SHA1-Digest: P7gkCVpDayMprsV5kly6sWmKAww=
+
+Name: res/drawable/btswcsasaringan.png
+SHA1-Digest: Vo1AP3VRqj8H06dWmuo9JCol7Cg=
+
+Name: res/layout/layjenis1.xml
+SHA1-Digest: ntoYDbP5a/+Bx/wtOPVLLolN9YE=
+
+Name: res/drawable/m1.png
+SHA1-Digest: bhdgox3jsipDZRxhDQup3d4NLaQ=
+
+Name: res/drawable/jilbabkawung.png
+SHA1-Digest: 2tQYnWmm4EI8i6z6mhwNEBJTSOU=
+
+Name: res/drawable/sjrh.png
+SHA1-Digest: YgFFVpj+Z1nx+b8pWxmeqR0avgc=
+
+Name: res/layout/laywarna12.xml
+SHA1-Digest: E9iutGMD8CMYWeIVaPBoF1lvHHc=
+
+Name: res/drawable/cpolos.png
+SHA1-Digest: Ezl3nCXNGgCtX5oQpw+rDb1570M=
+
+Name: res/drawable/celanapjgsasaringan.png
+SHA1-Digest: xx4OiVAMlGDnudMzG+0TfnLl6S4=
+
+Name: res/drawable/jilbabpekalongan.png
+SHA1-Digest: EhVV91A54BGKix//pyEgqfojGfk=
+
+Name: res/drawable/sejarah1.png
+SHA1-Digest: 8/ce4Srh8mlbpbh0vX32bQxMajw=
+
+Name: res/drawable/jaketbetawi.png
+SHA1-Digest: hALml/fnMJuKm5EJeqT/IzlaD74=
+
+Name: res/drawable/drpolos.png
+SHA1-Digest: EHnIDx+DgsJNtDjLlSVXA6AbmKc=
+
+Name: res/drawable/rokmega.png
+SHA1-Digest: 5Q3x0FjdnVtVVNMbjFY8gguYpiI=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: RRxOSvpmhVfCwiprVV/wZlaqQpw=
+
+Name: res/drawable/m2.png
+SHA1-Digest: 43XXTCFTcqL3CQhQNbdHgGGvYbg=
+
+Name: res/drawable/swcbetawi.png
+SHA1-Digest: luawjxK7LtFtYtHDaGMFaKVs4co=
+
+Name: res/layout/laywarna5.xml
+SHA1-Digest: FuQj26i5ymjsOR4mboH0re8Xo68=
+
+Name: res/drawable/makna4.png
+SHA1-Digest: imJrmT+FNl0QWd4eDiiwfG/vWR8=
+
+Name: res/drawable/topiparang.png
+SHA1-Digest: pd2L5t9IPrwiW+sCKj61bNIuQ8I=
+
+Name: res/drawable/jilbabkalimantan.png
+SHA1-Digest: Z6T+vTZN9/rhaJ33mA+bdplpW3c=
+
+Name: res/drawable/warna.png
+SHA1-Digest: nVVLU1XUK2DUvffn+Vpuk8HU7rU=
+
+Name: res/drawable/kparang.png
+SHA1-Digest: tDo6N1f9vI5PfrWy1xk8xARBP5Q=
+
+Name: res/drawable/btcelanapanjang.png
+SHA1-Digest: T2kpSsmUOpJd8CbUX2T4VW7OMsM=
+
+Name: res/drawable/jaketmega.png
+SHA1-Digest: tgZMujPp/1eR1mhAXdfO9UIEZS8=
+
+Name: res/drawable/btswdayak.png
+SHA1-Digest: znrwc8MxuZz3Vp+43bg699SqwvY=
+
+Name: res/drawable/kaospekalongan.png
+SHA1-Digest: Hae8YgJ6/amDeQGTOidQ4dooKPI=
+
+Name: res/drawable/btchijau.png
+SHA1-Digest: NxSHBr7jCQvwyVTx//k8mAkImmc=
+
+Name: res/drawable/tasnitik.png
+SHA1-Digest: vO/9atturk1OVFh7zBVpcK5v49E=
+
+Name: res/drawable/btm8.png
+SHA1-Digest: UQ8U7hY5NgL+9zXuYQ6J3EWglXY=
+
+Name: res/drawable/btjilbabmegamendung.png
+SHA1-Digest: MEA14awQLOsfHM4/8v2LC9aKllY=
+
+Name: res/drawable/kulotparang.png
+SHA1-Digest: GI2kfiFJvym+SQPQjwVza9L9zmE=
+
+Name: res/drawable/swpolos.png
+SHA1-Digest: VqYqyToiv8yiKEqgnNL0hjlhbmM=
+
+Name: res/drawable/btjaketpalembang.png
+SHA1-Digest: hnPq+ONsGddfNUbQh/Uo5IhB4JA=
+
+Name: res/drawable/jilbabsemenrama.png
+SHA1-Digest: mgFF5szE+fuwmw6Lg3I2pqYUaLQ=
+
+Name: res/drawable/celanapjgpolos.png
+SHA1-Digest: e/Pp3pFcl8oPgOE+FgsX59JSt5w=
+
+Name: res/drawable/bcksjrh.png
+SHA1-Digest: 1oPCHcdhXNQMfZTTj2uO5b9jmYQ=
+
+Name: res/menu-v11/main.xml
+SHA1-Digest: lxyTlKKyCd4QMruYcejbOnWbjIk=
+
+Name: res/layout/laymakna1.xml
+SHA1-Digest: yLUL6GLSlv3qxAAgZ9bAKDGfvy0=
+
+Name: res/drawable/rokpolos.png
+SHA1-Digest: FCSTNlVapETjcl9AsSFKbnimAtI=
+
+Name: res/drawable/kaosmegamendung.png
+SHA1-Digest: hCMHh2ipBVVQZ7fiBJ5Ao9HHDOE=
+
+Name: res/drawable/makna8.png
+SHA1-Digest: w9qBNP9FT3mauuX2Bl/Op0a5C+0=
+
+Name: res/drawable/topiasmat.png
+SHA1-Digest: GGO/E72MDrH0In3ciLcOHE+LN14=
+
+Name: res/drawable/cnavy.png
+SHA1-Digest: kuU1lOWaLPyr783MohfaH3jilzs=
+
+Name: res/drawable/btm12.png
+SHA1-Digest: E7YlmEWv5LDgOk8yzCsD6U+D0lU=
+
+Name: res/drawable/swparang.png
+SHA1-Digest: dVog0ahFgmyrbAN2rx7k42M2Axk=
+
+Name: res/drawable/kulotpalembang.png
+SHA1-Digest: IfBBE/OROmzrVsGq+lFOXLSif2I=
+
+Name: res/drawable/makna10.png
+SHA1-Digest: YEuF4ezUI7GYxQmrpPKaNycbqyQ=
+
+Name: res/drawable/celanapjgceplok.png
+SHA1-Digest: ssnxUeJJLBIwpuFC734YkLbHVbw=
+
+Name: res/drawable/swcpring.png
+SHA1-Digest: aFCm1i0WpPKs0WetXJoFN2A8kAE=
+
+Name: res/drawable/btgaunsekar.png
+SHA1-Digest: WBKt9sUOORs/O85TLosw26BbsI8=
+
+Name: res/drawable/btswparangrusak.png
+SHA1-Digest: FL3ttRnLzFloOKa/zrPsvDalS/4=
+
+Name: res/drawable/celanatambal.png
+SHA1-Digest: 4CXByQXn1hhdd3VrTr4SVXYVqns=
+
+Name: res/layout/laysej.xml
+SHA1-Digest: xcXFQlr9m53C/s617PIK3f6xkzc=
+
+Name: res/drawable/btcelanaparangbarong.png
+SHA1-Digest: wUpJ/6QLs6YUCpxdfXZ8b58bEXY=
+
+Name: res/drawable/btcmaroon.png
+SHA1-Digest: nT4wAw5az6CKYAvu+VCsYTAupTM=
+
+Name: res/layout/laymakna6.xml
+SHA1-Digest: QthKzwG+xJDPBVBCSYbwEpVuoNo=
+
+Name: res/drawable/btrok.png
+SHA1-Digest: byqSH1UwfD+03y5M6cqtSI3igxU=
+
+Name: res/drawable/btswkal.png
+SHA1-Digest: YglN5a/nelaKWKX6k502lGHIs68=
+
+Name: res/drawable/swcpucuk.png
+SHA1-Digest: n/eh9kof/KzInrMP/Qh+QhKaMUE=
+
+Name: res/drawable/drmegamendung.png
+SHA1-Digest: +GnYVSWsHcKfysDrSythul4Sgvk=
+
+Name: res/drawable/m7.png
+SHA1-Digest: Ku4PKJZEUAM2TVZkF5zS8mIV5UA=
+
+Name: res/drawable/btkulotsidoasih.png
+SHA1-Digest: VvJajaud/OYojAhFlJn1sbSDyT8=
+
+Name: res/drawable/kaosmega.png
+SHA1-Digest: knV1e+W53CYVBWQYN8Ft/eyd1Ew=
+
+Name: res/drawable/teknik3.png
+SHA1-Digest: VpOU6lMdC1AM1VvKyHkQfwqiw38=
+
+Name: res/drawable/taspalembang.png
+SHA1-Digest: ThTwTIstAMkeY7FPlyqsVzM7/KU=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: GVIfdEOBv4gEny2T1jDhGGsZOBo=
+
+Name: res/drawable/swsidoluhur.png
+SHA1-Digest: sn6mdIGXpNH0tnDYlAt6M3cxyug=
+
+Name: res/drawable/btkparang.png
+SHA1-Digest: eLIdtrzqXq2GtycEbbDwKw4zPPE=
+
+Name: res/drawable/btjaketnitik.png
+SHA1-Digest: QPN3muDno36LeDDPJlmKfm226uQ=
+
+Name: res/drawable/gaunsekar.png
+SHA1-Digest: LZxWvWNzsZ6mMjPDdAyww4q/f08=
+
+Name: res/drawable/btkaospekalongan.png
+SHA1-Digest: G9ConLwMyRpEqkMVQi7u09kOt9I=
+
+Name: res/drawable/btjaket.png
+SHA1-Digest: H6DyWG7dvlRm4LAxXGD32DyZ07w=
+
+Name: res/drawable/btjaketbarong.png
+SHA1-Digest: hv0LNpnOoFvhc9jL7A8P6F+fDPE=
+
+Name: res/drawable/m12.png
+SHA1-Digest: MrrelJqm3ONXT6Z+xLNtDTa/x9A=
+
+Name: res/drawable/kaoskalimantan.png
+SHA1-Digest: 9JqndzV07eb47HHkffNj7ISK8Dg=
+
+Name: res/layout/laywarna9.xml
+SHA1-Digest: CdGKKDBPoPXGA4mgw6X15Ln2rcU=
+
+Name: res/drawable/btcabu.png
+SHA1-Digest: rS2LKQpMbtccoIGCCASRnhN2Si8=
+
+Name: res/drawable/jaketpolos.png
+SHA1-Digest: QJhMwjgcsntPmahtmOPySZc7zj4=
+
+Name: res/drawable/bttas.png
+SHA1-Digest: C37KQEQEbuc4QK4g+bH2WYxq7Rg=
+
+Name: res/drawable/bttopiparang.png
+SHA1-Digest: noOe2CHSmWJmXT0cuZbRsLY6bgQ=
+
+Name: res/drawable/btkulotmega.png
+SHA1-Digest: BFnepEL1Aj/O11zWUwvN9CLfuoo=
+
+Name: res/drawable/btrokbetawi.png
+SHA1-Digest: FFz4/G4dQLwcS66wphws3TirrmY=
+
+Name: res/drawable/btm3.png
+SHA1-Digest: Ytkvvy3pQsdjTJkmBM5WkSADcus=
+
+Name: res/drawable/btrokmega.png
+SHA1-Digest: 8dYQ9p7MNhE9OpQ51bWZSnEeqUY=
+
+Name: res/drawable/delete.png
+SHA1-Digest: 9D3wlPmd8fEiHBubT11KyWncsrM=
+
+Name: res/drawable/btcelanapjgceplok.png
+SHA1-Digest: qxvTYUSqPf7tJq+tHoBqXsTlp+Y=
+
+Name: res/drawable/celanaparangrusak.png
+SHA1-Digest: ++cweNvVLQA2rnnqyHalUidjkwA=
+
+Name: res/drawable/gaunpolos.png
+SHA1-Digest: XocsTU7FWZyUC2r5YPhEf73KU+Q=
+
+Name: res/drawable/celanapjgjambi.png
+SHA1-Digest: T0xjLuXwR941f8b1D5zyt+QXDUY=
+
+Name: res/drawable/bttopipolos.png
+SHA1-Digest: bBYVCwt0Qjyy+xfVHsImxOT2C5w=
+
+Name: res/drawable/btgaunasmat.png
+SHA1-Digest: NEqoab7j7e4EYKXomjcEMMCaALY=
+
+Name: res/drawable/rokbetawi.png
+SHA1-Digest: spDZp8XuFSQoohUriucl3nnidYE=
+
+Name: res/drawable/makna3.png
+SHA1-Digest: Yx3K92X1D+CTim9+Zg1v6PxwMWU=
+
+Name: res/drawable/btkulotpalembang.png
+SHA1-Digest: lO4gGSlFDJM2QPgY+fUeKm1tfh0=
+
+Name: res/drawable/btswcpucuk.png
+SHA1-Digest: 4zSmxn1DZBOG3fAP+RupLUjSShE=
+
+Name: res/drawable/jenis.png
+SHA1-Digest: QJ89xjAPa+qf5s/N14vM5X3UBRk=
+
+Name: res/drawable/bttopimega.png
+SHA1-Digest: g1X+QxoMtzXhhqO1HM1d9rOdw7w=
+
+Name: res/layout/layjenis2.xml
+SHA1-Digest: oLvKfR4E1kBXIAO9miJWXC1vOF0=
+
+Name: res/drawable/tassekar.png
+SHA1-Digest: GOuae2uFqaRvMVo4QTPv4wetX8w=
+
+Name: res/drawable/btgaunmega.png
+SHA1-Digest: QrHPLJnSNM2Wl3O50YwnqTSPFcI=
+
+Name: res/drawable/btcelanapjgmegamendung.png
+SHA1-Digest: 0kRzdSq2XzQWRuUPxnw4emavJis=
+
+Name: res/drawable/btkaoskawung.png
+SHA1-Digest: 7fvxP3IqarBmCaisxo06pi1bwfY=
+
+Name: res/drawable/bttopiasmat.png
+SHA1-Digest: Jit67RrgZHin/2rdK8gF+OGvCEM=
+
+Name: res/drawable/btkaospriyangan.png
+SHA1-Digest: 9r8tYe+4DbtJHnTXOq3oySCndGo=
+
+Name: res/drawable/m3.png
+SHA1-Digest: DbS4CdGijmlcCnH7GHEsWc+8GaU=
+
+Name: res/drawable/swkal.png
+SHA1-Digest: 8b5oSIUUOSTsouvNBlcr+oaelTk=
+
+Name: res/drawable/cabu.png
+SHA1-Digest: KC/DsqghuTEP/gBhlEBjO2Kf9XE=
+
+Name: res/drawable/btsweatercwe.png
+SHA1-Digest: jW1hEC16eHQU1jESmUtxSnCpXLM=
+
+Name: res/drawable/cbirulangit.png
+SHA1-Digest: Rcbo1Ib3xwKOvsxds6JfiMBK7Bo=
+
+Name: res/drawable/btcelana.png
+SHA1-Digest: uAjU0tRitgqbXEJx7Tty2jOThLQ=
+
+Name: res/drawable/btcnavy.png
+SHA1-Digest: vBfgthMGEUFuiqWvKH0GvrKGf/Q=
+
+Name: res/drawable/kulotmega.png
+SHA1-Digest: t6kRp+a/2iXti1mcIiQKpXs1Mas=
+
+Name: res/drawable/btkulotceplok.png
+SHA1-Digest: a8VZGHsH4IgFy981tOIsgO2jQSU=
+
+Name: res/drawable/jaketparang.png
+SHA1-Digest: rmpM7A0TcTmrtQPEzCxAzTsKmcs=
+
+Name: res/layout/laywarna4.xml
+SHA1-Digest: UtOj3jZ4q68oqplp0M2hIrlfrqA=
+
+Name: res/layout/laymakna10.xml
+SHA1-Digest: aSciIGWP6VRHhPQB8IJerPUfp5k=
+
+Name: res/drawable/swcpolos.png
+SHA1-Digest: OU+WYzdgDtcUzPmqD/kEkgMSxLA=
+
+Name: res/layout/laymakna2.xml
+SHA1-Digest: KExEZlsyn5g0XeOqlGkmX39Rrbg=
+
+Name: res/drawable/celanapriyangan.png
+SHA1-Digest: A/wGVOkdMuDYcsWGJTKrYnBBsA8=
+
+Name: res/drawable/btdrceplok.png
+SHA1-Digest: x2gBY4su/08YRdkj50oGfiibrds=
+
+Name: res/drawable/bttopi.png
+SHA1-Digest: 0bNDQMcE32QTzCRscfXyVW8V5o8=
+
+Name: res/layout/laymakna9.xml
+SHA1-Digest: vdzImlBFh6X4dOzfplfcRaKCgBU=
+
+Name: res/drawable/makna7.png
+SHA1-Digest: lWRpqioxEcqhuJFjEvHa0A7/A/Q=
+
+Name: res/drawable/sejarah2.png
+SHA1-Digest: mlYOqL9YVLAUt70U0sSf8aY/NCs=
+
+Name: res/drawable/bcg.png
+SHA1-Digest: luA4amgsjjUcUxME3WZ5UUmV7SI=
+
+Name: res/drawable/btgaun.png
+SHA1-Digest: K5lVete5xlEOoBjbEAmW4k5V6VQ=
+
+Name: res/drawable/bttasnitik.png
+SHA1-Digest: BnxRj27PVak9GS/kxkEOKJuU5ic=
+
+Name: res/drawable/kaossekar.png
+SHA1-Digest: kF9NIyDKA+fP/okanSrBiE2jf9E=
+
+Name: res/drawable/btksidoasih.png
+SHA1-Digest: 2z6Yhq2OvoFjoKSFGrAkIqFVivY=
+
+Name: res/drawable/roksekar.png
+SHA1-Digest: /tqdWbvQ+5742rTSEhsh4Td35zI=
+
+Name: res/drawable/btm7.png
+SHA1-Digest: 4VxTvIz+o9Z7TVIN4mW3b7gmT3g=
+
+Name: res/layout/laywarna13.xml
+SHA1-Digest: YbZyJP+ly+7RQBW7LGA0sWB3rlo=
+
+Name: res/drawable/celanasekar.png
+SHA1-Digest: 53dwABkyXSNjVEwu1SMDsG0Z/EE=
+
+Name: res/drawable/icondepan.png
+SHA1-Digest: 5IWoO8RitGf12O6RVasFxiI3xCs=
+
+Name: res/drawable/m6.png
+SHA1-Digest: M+BtyNeiwUUBH7l8WEsJc4n+XUA=
+
+Name: res/layout/laywarna1.xml
+SHA1-Digest: m78Fku2+pX1DOVU9gEdASbkuMjk=
+
+Name: res/drawable/jilbabmegamendung.png
+SHA1-Digest: /2+njr29i1qn3M/PLHmFCm/wcA8=
+
+Name: res/drawable/kaospriyangan.png
+SHA1-Digest: MWLAnH15pwqXKXb+ouXeSReo/nw=
+
+Name: res/drawable/jakettambal.png
+SHA1-Digest: BRdCS3Td1D9KwMTxRPZhIG7mmiY=
+
+Name: res/drawable/teknik4.png
+SHA1-Digest: eQi1wfJpMI0E2dwoManhYLHjOKw=
+
+Name: res/drawable/btkdayak.png
+SHA1-Digest: VXlif0PVteXgKqXNU+Ak2fc86OU=
+
+Name: res/drawable/btcelanaparangrusak.png
+SHA1-Digest: QU0LmvjVXtGoc7cQ+pY3oNjFW4w=
+
+Name: res/drawable/btcelanapjgjambi.png
+SHA1-Digest: UT1IWjqWxtqYESq2yliVqHlWOyc=
+
+Name: res/drawable/taspolos.png
+SHA1-Digest: uQN5ftn8qi4gvT6Rf/9glExY47U=
+
+Name: res/drawable/btcelanasidoasih.png
+SHA1-Digest: gkZItoCkWbsJj2lko5hWu4eR4yM=
+
+Name: res/layout/laymakna13.xml
+SHA1-Digest: 6weWYOQY1P5QhUOmC1OUHIFUYRU=
+
+Name: res/drawable/makna.png
+SHA1-Digest: 7JKcfNGc/G6qLyeN1T1xrbtI5oU=
+
+Name: res/drawable/btdrpucuk.png
+SHA1-Digest: yTB26g/l3eS1lO5sF8vgMdhG+So=
+
+Name: res/drawable/swcmega.png
+SHA1-Digest: 21rH9/YsN617h5shJOwSO60FTj0=
+
+Name: res/drawable/btjilbabnitik.png
+SHA1-Digest: DXXaLLt9OW5dg9ZYM+dgR16hDQM=
+
+Name: res/drawable/kpolos.png
+SHA1-Digest: o5sr8yRIqK4H8FT9wkAQ1PlxJFc=
+
+Name: res/drawable/btswcnitik.png
+SHA1-Digest: weJeqpfXRgAQx0pdnnWDHCPAYLQ=
+
+Name: res/drawable/swcsasaringan.png
+SHA1-Digest: Tb3bpaCZE7xQM8s7vSPtqX2oedI=
+
+Name: res/drawable/topikawung.png
+SHA1-Digest: 9dKvsjWedpZ9jBQTurvmgiKdgT4=
+
+Name: res/drawable/btm11.png
+SHA1-Digest: 78BtCK6X8ltdVnF8153mAN0tXKI=
+
+Name: res/drawable/btswbetawi.png
+SHA1-Digest: Vd3dod5I44l33v6f+cs51rR99b8=
+
+Name: res/drawable/celanapjglasem.png
+SHA1-Digest: ZDOnNE3YPes6JxdY8Df/ORwBlpA=
+
+Name: res/drawable/btjilbabsemenrama.png
+SHA1-Digest: QXch1EL2brbneKpAbILdKJsIUvc=
+
+Name: res/drawable/swcjambi.png
+SHA1-Digest: nWk3HNpVzDm/KMne1xRcJ0cqGiM=
+
+Name: res/drawable/kulotsekar.png
+SHA1-Digest: KTqn7kriVaxG1evKXupDrY/Ksz8=
+
+Name: res/layout/laywarna8.xml
+SHA1-Digest: TLTwSfzE2/qkMiJQE+6fRAx+gpY=
+
+Name: res/drawable/kulotjambi.png
+SHA1-Digest: 0+Q/BaK8RiwWY9MNJK0ptjjTG/Q=
+
+Name: res/drawable/m11.png
+SHA1-Digest: fAzKobmaZz56d98Z2NtRdHd6KEY=
+
+Name: res/drawable/btcelanapriyangan.png
+SHA1-Digest: OYZjMW+2Uh/cY9ag0FXat9gsz+M=
+
+Name: res/drawable/kasmat.png
+SHA1-Digest: /xL0vzuycrpECP8bChb9L6tcClw=
+
+Name: res/drawable/btkaoskalimantan.png
+SHA1-Digest: /7LSK25/03F7X+thAmdx08urAKM=
+
+Name: res/drawable/rokceplok.png
+SHA1-Digest: 6veWIQ1xwdIT1pI0xF+dCaRmNS4=
+
+Name: res/drawable/kaoskawung.png
+SHA1-Digest: YH6IDI5Ui1+52fAjXichcVccnmg=
+
+Name: res/drawable/btm4.png
+SHA1-Digest: mR99b+Zf0V1yPa2Somwaxgy7axA=
+
+Name: res/drawable/btswparang.png
+SHA1-Digest: qnJgHZrsY25iRNwnBE4qpMnJCUs=
+
+Name: res/drawable/bttopiceplok.png
+SHA1-Digest: 8CqJ5zRciW97WLiGnwImSPYAN1M=
+
+Name: res/drawable/kdayak.png
+SHA1-Digest: lWXapDsGZybXUqrGve7GWKNxjiw=
+
+Name: res/drawable/makna13.png
+SHA1-Digest: KatKpnm6891NcjErSjH/xFbclNs=
+
+Name: res/drawable/roktambal.png
+SHA1-Digest: fGOzamfB1dOh8zvJYCKIDOIPSLk=
+
+Name: res/drawable/bck.png
+SHA1-Digest: lWdjIYpXV2/og1hTmlGtE9HCFEU=
+
+Name: res/layout/laymakna5.xml
+SHA1-Digest: DNenfvk6ndn7ShUBfq+ZKI2uBTc=
+
+Name: res/drawable/bttaspalembang.png
+SHA1-Digest: 8S/sY0jMvcj1PrmwhwyAVQW3eDI=
+
+Name: res/drawable/btswcbtw.png
+SHA1-Digest: zRv78Qy170kLkmjSf+okvU8QioQ=
+
+Name: res/drawable/swcnitik.png
+SHA1-Digest: x6w6FhxHLB7v2hMq7KWENYBTzs8=
+
+Name: res/drawable/btjaketbetawi.png
+SHA1-Digest: o0xObK0BQdf0fQvg2M4TcSjvvoA=
+
+Name: res/drawable/celanasekar2.png
+SHA1-Digest: F/lfoN9JfifIf2JgwrE1xi10+cY=
+
+Name: res/drawable/log.png
+SHA1-Digest: T3qcSbBonlVoCz4OoE5G5Fia3ys=
+
+Name: res/drawable/celanapjgmegamendung.png
+SHA1-Digest: iskGt2iNmBve2kYxIHT7xrgD5rI=
+
+Name: res/drawable/knitik.png
+SHA1-Digest: H86Qv476Z7bSHVc5L7/U+xl53X8=
+
+Name: res/drawable/kulotsidoasih.png
+SHA1-Digest: 7nly+Qg7HU/bCcN1tX+QXUYWMzo=
+
+Name: res/drawable/btcelanatambal.png
+SHA1-Digest: QaepWrDkBHIwmYk4O+902rBCzW4=
+
+Name: res/drawable/btkemeja.png
+SHA1-Digest: Y5htnNBd8yeFycRnFxFrczXL7mU=
+
+Name: res/drawable/tasmega.png
+SHA1-Digest: RwzubjNxpgKMb5yxRD77H8lmR+0=
+
+Name: res/drawable/btm6.png
+SHA1-Digest: 6So8+2BaKyzohYc9ul1Xb1mJGLQ=
+
+Name: res/drawable/abt.png
+SHA1-Digest: 79un42yOyd85dRy6yFeuzMtB0cY=
+
+Name: res/drawable/topitambal.png
+SHA1-Digest: GgpCa2oazGOM51c0QXq2+5wSKVc=
+
+Name: res/drawable/btgaunsasaringan.png
+SHA1-Digest: SgHAWfbTT+MqQHjWDq7wQmgtlNM=
+
+Name: res/drawable/btcelanapjgbetawi.png
+SHA1-Digest: iWeCAgpYet6BYz2FkjTiHrKowhw=
+
+Name: res/layout/layjenis.xml
+SHA1-Digest: Lf4IipYvVy14sFvfCf63sL3IvXM=
+
+Name: res/drawable/taspekalongan.png
+SHA1-Digest: ewuadkyTGCjNjAJV5p4KHhHhnGY=
+
+Name: res/drawable/m10.png
+SHA1-Digest: HpoNpmAEsG2SdesqpFSBOlEhIsM=
+
+Name: res/drawable/celanapjgsekarjagad.png
+SHA1-Digest: aV2v3jf20FygEqVDnRXTpvyb7Jc=
+
+Name: res/drawable/swparangrusak.png
+SHA1-Digest: EZULiQ68zLc1O5si42imY0jApo4=
+
+Name: res/drawable/gaunmegamendung.png
+SHA1-Digest: 7L4x+UJsjFh3sywx++Og0BgaBAQ=
+
+Name: res/drawable/back.png
+SHA1-Digest: LveKIVQIY3t1FICXhYJ42Eqxb78=
+
+Name: res/drawable/tasmegamendung.png
+SHA1-Digest: 16DI8LCLII+mOLsgaRQSPsR1XBY=
+
+Name: res/drawable/swkalimantan.png
+SHA1-Digest: HcFBgUj/7CSO2nX0LCL2yvpfZ0E=
+
+Name: res/drawable/makna6.png
+SHA1-Digest: Jo4sK+AFY/TUEPenpWSK+9TZFqQ=
+
+Name: res/layout/laywarna3.xml
+SHA1-Digest: kZzXlzw1IAQEdKUf6xg2KGbsXwU=
+
+Name: res/drawable/btroktambal.png
+SHA1-Digest: SbFN4jI7WfOXn81MOzcHIs5Q+/8=
+
+Name: res/drawable/btswkalimantan.png
+SHA1-Digest: CVvCEHzuLsQ7FFY7N3DPDFu8gwY=
+
+Name: res/drawable/drbetawi.png
+SHA1-Digest: V9Gv3byy9NA6hLxQZu9+iz8hrbs=
+
+Name: res/drawable/btm10.png
+SHA1-Digest: 3ifQUyvebh2AYxgQRmYy1tGBPs4=
+
+Name: res/drawable/celanaparangbarong.png
+SHA1-Digest: 79wAIzKS3iN3S0KZJq/EbEMqAfo=
+
+Name: res/drawable/topisekarjagad.png
+SHA1-Digest: WHKoPk+FxaX8mqQB7+Es2FOqw/c=
+
+Name: res/drawable/btcbiru.png
+SHA1-Digest: 2MUWrX9YddG0X5Pnrb/o8TrWRHk=
+
+Name: res/drawable/drlasem.png
+SHA1-Digest: iwVP0bqzdtPmboW4D2diyW0+ls0=
+
+Name: res/layout/laymakna8.xml
+SHA1-Digest: +rA1RB+05HYbn5l6JD0AH0+s+eY=
+
+Name: res/drawable/btcouple.png
+SHA1-Digest: mLAzBXef4QaGND64qduHMU6YGYw=
+
+Name: res/drawable/m4.png
+SHA1-Digest: 5QdRGUhZIvHkv/5H10R656/pBCQ=
+
+Name: res/layout/laywarna14.xml
+SHA1-Digest: g/vFXI18lIV7RG+vw0NZGV7jgkM=
+
+Name: res/drawable/btkulotparang.png
+SHA1-Digest: rpgIJat07pch4osqz0gmXn66hHs=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: AfPh3OJoypH966MludSW6f1RHg4=
+
+Name: res/drawable/btswcmega.png
+SHA1-Digest: RXQv5p1M+aqAK8JesQQfx9/sn+s=
+
+Name: res/drawable/ksemen.png
+SHA1-Digest: Ug/d4ch4Yb1mfLzRMTGQBAsODGY=
+
+Name: res/drawable/celanasidoasih.png
+SHA1-Digest: P7YsjsP8aCWyON3185hmhPAo0H4=
+
+Name: res/drawable/gaunsasaringan.png
+SHA1-Digest: 0ENhxTBK38UxMJxwPs5CQRItBKg=
+
+Name: res/drawable/teknik1.png
+SHA1-Digest: 0Ym0S/l3dzvqAsQ45FBG9+XJj/Q=
+
+Name: res/drawable/jaketbarong.png
+SHA1-Digest: 8qnCQVwML/Lt42c6xHI9iDan05k=
+
+Name: res/drawable/btgaunmegamendung.png
+SHA1-Digest: ZTsLowh2SQyB12Ua4y/PYCnViig=
+
+Name: res/drawable/kaospolos.png
+SHA1-Digest: l0aqxGyfNGYE8lOnmEK6C1urERw=
+
+Name: res/drawable/jilbabnitik.png
+SHA1-Digest: skSJZVVm80x3G6jSDJNXcHKjcA0=
+
+Name: res/drawable/celanapolos.png
+SHA1-Digest: 4owK3G8KOjgqQbWprSj0leJFE6g=
+
+Name: res/layout/laymakna11.xml
+SHA1-Digest: sSahbiHKAwg8hGUiwMIpuhZV+XY=
+
+Name: res/drawable/bttastambal.png
+SHA1-Digest: 933l8YzJj6QblBJ7g9h8nMeWJww=
+
+Name: res/drawable/gaunlasem.png
+SHA1-Digest: JLQ/4ZlbIxYDr3bgtmyfx4yUuv4=
+
+Name: res/drawable/btkaos.png
+SHA1-Digest: 49sjWft15aNc+/8gcTN7M06K4kE=
+
+Name: res/drawable/btm1.png
+SHA1-Digest: qF9osn0cbWAtOdcGh/O1N5qEwhY=
+
+Name: res/drawable/m14.png
+SHA1-Digest: 6jGM+oUMkzmEbmdnadoQXIPGkBc=
+
+Name: res/drawable/btdrsekar.png
+SHA1-Digest: 3WZsYsk/cVP+aWYTujJlPL21EAQ=
+
+Name: res/drawable/btkaospucukrebung.png
+SHA1-Digest: o8+MRhw11uQtABX2wqnk1zJBjJo=
+
+Name: res/drawable/jilbabpalembang.png
+SHA1-Digest: tQHMOALu+ViTh/ntgqLztDFKdUc=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: Nq8q3HeTluE5JNCBpVvNy3BXtJI=
+
+Name: res/drawable/btjilbabpalembang.png
+SHA1-Digest: 8zQDoORBd6apDfvuNo4ckcqgVJ8=
+
+Name: res/drawable/roksasaringan.png
+SHA1-Digest: eswsWO5Esow55QTS3pWU8AWoIEE=
+
+Name: res/drawable/kaospucukrebung.png
+SHA1-Digest: vYYsyK1+xA0GnOgbQPwEefmg98o=
+
+Name: res/drawable/btdress.png
+SHA1-Digest: bpRbm4KIw50OGCHRU7WwV57H8Kg=
+
+Name: res/drawable/btdrjambi.png
+SHA1-Digest: gDmgdefzjrygqsl8b9sWQHbgUPE=
+
+Name: res/layout/laymakna.xml
+SHA1-Digest: wKUDABtDDrs/CxUJr9o0O2SBI6s=
+
+Name: res/menu/main.xml
+SHA1-Digest: kzzYudtgD4HSlcwni3TdtaZ6yFc=
+
+Name: res/drawable/cbiru.png
+SHA1-Digest: DbyK20RYtiANyluk0JkiZyHk3ZU=
+
+Name: res/layout/laymakna12.xml
+SHA1-Digest: 4RsMGzzTLh0jHwQ8W8HxlHS0yp0=
+
+Name: res/drawable/btjilbabpekalongan.png
+SHA1-Digest: Y8pYjfPzdXjgJI1WJzeOcR4PwYU=
+
+Name: res/layout/laywarna2.xml
+SHA1-Digest: iJRrAVITGjk1x+Mp8dNqcoENTsc=
+
+Name: res/drawable/btdrbetawi.png
+SHA1-Digest: llEhAp2RKKobIJlHrte69InUS1c=
+
+Name: res/drawable/topipolos.png
+SHA1-Digest: 2WdinZCkVMhYSPkoSREfpzsGUjc=
+
+Name: res/drawable/tasbuketan.png
+SHA1-Digest: kLnT2avcXLBQlXldAmCuOcFMnmA=
+
+Name: res/layout/laywarna15.xml
+SHA1-Digest: cszt2XA3Ks2uwTgP0kop/KUGIFk=
+
+Name: res/drawable/btcelanasidoluhur.png
+SHA1-Digest: fkMkUK+DF0sq1l+YmwyeuudD5hw=
+
+Name: res/drawable/btcelanapjgsekarjagad.png
+SHA1-Digest: VH+PYj2OKnigRk4FVwJIdJpytXY=
+
+Name: res/drawable/btkparangrusak.png
+SHA1-Digest: DbbW7aXda9mOEmzfxo2AZMTuGKM=
+
+Name: res/drawable/bttassekar.png
+SHA1-Digest: TUvMVdUELZS6ytnJpQgDojb8LDM=
+
+Name: res/drawable/makna1.png
+SHA1-Digest: Ed19+qmpR2d95lUyVnupmpHViRc=
+
+Name: res/drawable/rokpring.png
+SHA1-Digest: mYdoAi+A2Wxxs3UXjy833qWZ/Xk=
+
+Name: res/drawable/bttasmegamendung.png
+SHA1-Digest: H0LijT3NnOCMa3E1AbIVxUVqcy8=
+
+Name: res/drawable/swbetawi.png
+SHA1-Digest: R7EIl5YLcoRaNNCJZt7IxmJu4dg=
+
+Name: res/drawable/btcmocca.png
+SHA1-Digest: K95uPZjCZm8vhJoyLhad6u/58m4=
+
+Name: res/drawable/jilbabpolos.png
+SHA1-Digest: 5Pcq+FOJDSqTYJ20Cm85f7be2Fo=
+
+Name: res/drawable/makna12.png
+SHA1-Digest: gr0kU88f2DH+qC3S2ZE0adzVNtA=
+
+Name: res/drawable/ckuning.png
+SHA1-Digest: MKnGCQwHaDaOPwOA1eW43CFdtYk=
+
+Name: res/drawable/rokparangbarong.png
+SHA1-Digest: 1mfAXABb3o4s6tJLPdqtJbqxqy0=
+
+Name: res/drawable/btgaunlasem.png
+SHA1-Digest: QvvKeqF+SqeaWIK7fJZuMjNB1cc=
+
+Name: res/drawable/btrokparangbarong.png
+SHA1-Digest: YOnfgcWm1ncZHSLdLi+A6zzyIuA=
+
+Name: res/drawable/drpucuk.png
+SHA1-Digest: Zgje+QS1KxSyX1KHJoXkGVphns8=
+
+Name: res/layout/laywarna10.xml
+SHA1-Digest: og8WG/ToRWwzc77xiJgt8G1LHh8=
+
+Name: res/drawable/gaunasmat.png
+SHA1-Digest: WlPnpz6C2W7fIOZoMKR2D0ajtrY=
+
+Name: res/layout/laymakna4.xml
+SHA1-Digest: iyftBV7MyB1lBrnTsJ7zf3PdWRA=
+
+Name: res/layout/laywarna7.xml
+SHA1-Digest: pOjJ6uE6Sbq3DRwdrLYsBRr+YcM=
+
+Name: res/drawable/bttopisekar.png
+SHA1-Digest: pyuC0p12zQzP/qAYnvo51RmeZm8=
+
+Name: res/drawable/btgaunpring.png
+SHA1-Digest: tYnlOjff523ivmdCRNDIQDnOuCQ=
+
+Name: res/drawable/bttasbuketan.png
+SHA1-Digest: 5rl58Zh56eR5cIAq2ThBTgvm6GY=
+
+Name: res/drawable/m9.png
+SHA1-Digest: pNtnoLgk1JBeDvHM6EOvljJbGrU=
+
+Name: classes.dex
+SHA1-Digest: 92GiqPo5+kfMod0eUHTBoo+VYTM=
+
+Name: res/drawable/celanasidoluhur.png
+SHA1-Digest: 9FCNPIea6fD3Qg561lOftQ0c+F0=
+
+Name: res/drawable/btcelanapjglasem.png
+SHA1-Digest: F06ir1b8yDP2429uDp1NKR6AwZQ=
+
